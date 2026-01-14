@@ -1,7 +1,7 @@
 ---
 title: "First Test Blog Post"
 date: 2026-01-14T12:00:00-00:00
-draft: true
+draft: false
 tags: ["sample", "getting-started"]
 categories: ["tutorial"]
 author: "Sohum"
